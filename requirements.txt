@@ -1,0 +1,9 @@
+transformers
+scrapy
+beautifulsoup4
+spacy
+nltk
+langchain
+matplotlib
+pandas
+fpdf
